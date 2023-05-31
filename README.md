@@ -2,9 +2,11 @@
 This is a simple quiz application that presents 10 true or false questions to the user. The user can select either "True" or "False" as the answer for each question.
 
 ## Usage
-Clone the repository: git clone (https://github.com/Alisadaintanvir/quiz_app/)
-Navigate to the project directory: cd quiz-app
-Run the quiz app: python quiz_app.py
+#### Clone the repository: git clone (https://github.com/Alisadaintanvir/quiz_app/)
+
+#### Navigate to the project directory: cd quiz-app
+
+#### Run the quiz app: python quiz_app.py
 
 ## Questions
 The quiz questions and their correct answers are stored in the data.py file. Each question is represented by an instance of the Question class defined in question_model.py.
