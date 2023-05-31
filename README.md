@@ -26,4 +26,5 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 The quiz app is developed using Python Object Oriented Programming approach.
 
-#### Note: The code provided here is a simplified representation to generate the GitHub README file. It assumes that the necessary modules and data files (question_model.py, data.py, and quiz_brain.py) exist in the project directory. Please ensure that you have the complete code and necessary dependencies to run the quiz app.
+#### Note: 
+The code provided here is a simplified representation to generate the GitHub README file. It assumes that the necessary modules and data files (question_model.py, data.py, and quiz_brain.py) exist in the project directory. Please ensure that you have the complete code and necessary dependencies to run the quiz app.
